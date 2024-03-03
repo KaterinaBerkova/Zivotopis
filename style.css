@@ -1,0 +1,102 @@
+body {
+    color: #34495E;
+    font-family: 'Montserrat', 'Open Sans', 'Poppins';
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 0;
+    background-image: url(podklady/pozadi05b.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.zakladinfo img {
+    width: 400px;
+    border-radius: 50px 0 50px 50px;
+    border: 2px solid #34495E;
+    float: left;
+    margin: 30px;
+}
+
+h1 {
+    font-family: 'Poppins';
+    font-size: 60px;
+    text-align: center;
+    font-weight: 900;
+    color: #2C3E50;
+    margin-top: 50px;
+    text-shadow: 0 30px 100px rgba(19, 16, 16, 0.7);
+}
+
+h2 {
+    font-family: 'Poppins';
+    font-size: 27px;
+    text-align: center;
+    font-weight: 700;
+    color: #2C3E50;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-size: 22px;
+    text-align: left;
+    font-weight: 600;
+    color: #34495E;
+    margin: 0;
+}
+
+.zakladinfo h3 {
+    margin-top: 60px;
+}
+
+
+
+a {
+    font-style: italic;
+}
+
+p {
+    font-family: 'Open Sans';
+}
+
+ul {
+    margin-bottom: 50px;
+}
+
+.ul02 {
+    margin-bottom: 20px;
+}
+
+
+
+table {
+    border-spacing: 0;
+    margin: 50px 50px 70px 50px;
+}
+
+th, td {
+    text-align: left;
+    border-bottom: 1px solid #EBEDEF;
+}
+
+.znalosti {
+    text-align: right;
+    padding-left: 70px;
+}
+
+
+
+section {
+    padding: 10px 10%;
+    overflow: auto;
+}
+
+.paticka {
+    background-color: #282425;
+    color: #F8F9F9;
+    text-align: center;
+    padding: 20px 0;
+}
+
